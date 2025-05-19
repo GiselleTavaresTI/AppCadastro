@@ -4,6 +4,7 @@
 //
 //Created by Giselle Dos Santos Tavares on 14/05/25.
 
+//Comentário:
 //Aplicativo de tela de cadastro aonde o botão fica habilitado quando todos os campos
 //estão preenchidos com pelo menos 1 caracter. Caso algum campo ou todos não ter nada
 //preenchido, o botão "cadastra-se"fica inabilitado.
