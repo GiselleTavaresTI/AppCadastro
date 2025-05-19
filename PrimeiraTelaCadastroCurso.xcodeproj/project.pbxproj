@@ -1,0 +1,568 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		C95CC3882DD4D83C00F6D955 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C95CC3692DD4D83B00F6D955 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = C95CC3702DD4D83B00F6D955;
+			remoteInfo = PrimeiraTelaCadastroCurso;
+		};
+		C95CC3922DD4D83C00F6D955 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C95CC3692DD4D83B00F6D955 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = C95CC3702DD4D83B00F6D955;
+			remoteInfo = PrimeiraTelaCadastroCurso;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		C95CC3712DD4D83B00F6D955 /* PrimeiraTelaCadastroCurso.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PrimeiraTelaCadastroCurso.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C95CC3872DD4D83C00F6D955 /* PrimeiraTelaCadastroCursoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PrimeiraTelaCadastroCursoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		C95CC3912DD4D83C00F6D955 /* PrimeiraTelaCadastroCursoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PrimeiraTelaCadastroCursoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		C95CC3992DD4D83C00F6D955 /* Exceptions for "PrimeiraTelaCadastroCurso" folder in "PrimeiraTelaCadastroCurso" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = C95CC3702DD4D83B00F6D955 /* PrimeiraTelaCadastroCurso */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		C95CC3732DD4D83B00F6D955 /* PrimeiraTelaCadastroCurso */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				C95CC3992DD4D83C00F6D955 /* Exceptions for "PrimeiraTelaCadastroCurso" folder in "PrimeiraTelaCadastroCurso" target */,
+			);
+			path = PrimeiraTelaCadastroCurso;
+			sourceTree = "<group>";
+		};
+		C95CC38A2DD4D83C00F6D955 /* PrimeiraTelaCadastroCursoTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = PrimeiraTelaCadastroCursoTests;
+			sourceTree = "<group>";
+		};
+		C95CC3942DD4D83C00F6D955 /* PrimeiraTelaCadastroCursoUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = PrimeiraTelaCadastroCursoUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C95CC36E2DD4D83B00F6D955 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C95CC3842DD4D83C00F6D955 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C95CC38E2DD4D83C00F6D955 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		C95CC3682DD4D83B00F6D955 = {
+			isa = PBXGroup;
+			children = (
+				C95CC3732DD4D83B00F6D955 /* PrimeiraTelaCadastroCurso */,
+				C95CC38A2DD4D83C00F6D955 /* PrimeiraTelaCadastroCursoTests */,
+				C95CC3942DD4D83C00F6D955 /* PrimeiraTelaCadastroCursoUITests */,
+				C95CC3722DD4D83B00F6D955 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		C95CC3722DD4D83B00F6D955 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C95CC3712DD4D83B00F6D955 /* PrimeiraTelaCadastroCurso.app */,
+				C95CC3872DD4D83C00F6D955 /* PrimeiraTelaCadastroCursoTests.xctest */,
+				C95CC3912DD4D83C00F6D955 /* PrimeiraTelaCadastroCursoUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C95CC3702DD4D83B00F6D955 /* PrimeiraTelaCadastroCurso */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C95CC39A2DD4D83C00F6D955 /* Build configuration list for PBXNativeTarget "PrimeiraTelaCadastroCurso" */;
+			buildPhases = (
+				C95CC36D2DD4D83B00F6D955 /* Sources */,
+				C95CC36E2DD4D83B00F6D955 /* Frameworks */,
+				C95CC36F2DD4D83B00F6D955 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				C95CC3732DD4D83B00F6D955 /* PrimeiraTelaCadastroCurso */,
+			);
+			name = PrimeiraTelaCadastroCurso;
+			packageProductDependencies = (
+			);
+			productName = PrimeiraTelaCadastroCurso;
+			productReference = C95CC3712DD4D83B00F6D955 /* PrimeiraTelaCadastroCurso.app */;
+			productType = "com.apple.product-type.application";
+		};
+		C95CC3862DD4D83C00F6D955 /* PrimeiraTelaCadastroCursoTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C95CC39F2DD4D83C00F6D955 /* Build configuration list for PBXNativeTarget "PrimeiraTelaCadastroCursoTests" */;
+			buildPhases = (
+				C95CC3832DD4D83C00F6D955 /* Sources */,
+				C95CC3842DD4D83C00F6D955 /* Frameworks */,
+				C95CC3852DD4D83C00F6D955 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				C95CC3892DD4D83C00F6D955 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				C95CC38A2DD4D83C00F6D955 /* PrimeiraTelaCadastroCursoTests */,
+			);
+			name = PrimeiraTelaCadastroCursoTests;
+			packageProductDependencies = (
+			);
+			productName = PrimeiraTelaCadastroCursoTests;
+			productReference = C95CC3872DD4D83C00F6D955 /* PrimeiraTelaCadastroCursoTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		C95CC3902DD4D83C00F6D955 /* PrimeiraTelaCadastroCursoUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C95CC3A22DD4D83C00F6D955 /* Build configuration list for PBXNativeTarget "PrimeiraTelaCadastroCursoUITests" */;
+			buildPhases = (
+				C95CC38D2DD4D83C00F6D955 /* Sources */,
+				C95CC38E2DD4D83C00F6D955 /* Frameworks */,
+				C95CC38F2DD4D83C00F6D955 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				C95CC3932DD4D83C00F6D955 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				C95CC3942DD4D83C00F6D955 /* PrimeiraTelaCadastroCursoUITests */,
+			);
+			name = PrimeiraTelaCadastroCursoUITests;
+			packageProductDependencies = (
+			);
+			productName = PrimeiraTelaCadastroCursoUITests;
+			productReference = C95CC3912DD4D83C00F6D955 /* PrimeiraTelaCadastroCursoUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C95CC3692DD4D83B00F6D955 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1620;
+				TargetAttributes = {
+					C95CC3702DD4D83B00F6D955 = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					C95CC3862DD4D83C00F6D955 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = C95CC3702DD4D83B00F6D955;
+					};
+					C95CC3902DD4D83C00F6D955 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = C95CC3702DD4D83B00F6D955;
+					};
+				};
+			};
+			buildConfigurationList = C95CC36C2DD4D83B00F6D955 /* Build configuration list for PBXProject "PrimeiraTelaCadastroCurso" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = C95CC3682DD4D83B00F6D955;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = C95CC3722DD4D83B00F6D955 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C95CC3702DD4D83B00F6D955 /* PrimeiraTelaCadastroCurso */,
+				C95CC3862DD4D83C00F6D955 /* PrimeiraTelaCadastroCursoTests */,
+				C95CC3902DD4D83C00F6D955 /* PrimeiraTelaCadastroCursoUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		C95CC36F2DD4D83B00F6D955 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C95CC3852DD4D83C00F6D955 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C95CC38F2DD4D83C00F6D955 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C95CC36D2DD4D83B00F6D955 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C95CC3832DD4D83C00F6D955 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C95CC38D2DD4D83C00F6D955 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		C95CC3892DD4D83C00F6D955 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = C95CC3702DD4D83B00F6D955 /* PrimeiraTelaCadastroCurso */;
+			targetProxy = C95CC3882DD4D83C00F6D955 /* PBXContainerItemProxy */;
+		};
+		C95CC3932DD4D83C00F6D955 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = C95CC3702DD4D83B00F6D955 /* PrimeiraTelaCadastroCurso */;
+			targetProxy = C95CC3922DD4D83C00F6D955 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		C95CC39B2DD4D83C00F6D955 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = PrimeiraTelaCadastroCurso/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = none.PrimeiraTelaCadastroCurso;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		C95CC39C2DD4D83C00F6D955 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = PrimeiraTelaCadastroCurso/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = none.PrimeiraTelaCadastroCurso;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		C95CC39D2DD4D83C00F6D955 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		C95CC39E2DD4D83C00F6D955 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C95CC3A02DD4D83C00F6D955 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = none.PrimeiraTelaCadastroCursoTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PrimeiraTelaCadastroCurso.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/PrimeiraTelaCadastroCurso";
+			};
+			name = Debug;
+		};
+		C95CC3A12DD4D83C00F6D955 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = none.PrimeiraTelaCadastroCursoTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PrimeiraTelaCadastroCurso.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/PrimeiraTelaCadastroCurso";
+			};
+			name = Release;
+		};
+		C95CC3A32DD4D83C00F6D955 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = none.PrimeiraTelaCadastroCursoUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = PrimeiraTelaCadastroCurso;
+			};
+			name = Debug;
+		};
+		C95CC3A42DD4D83C00F6D955 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = none.PrimeiraTelaCadastroCursoUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = PrimeiraTelaCadastroCurso;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C95CC36C2DD4D83B00F6D955 /* Build configuration list for PBXProject "PrimeiraTelaCadastroCurso" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C95CC39D2DD4D83C00F6D955 /* Debug */,
+				C95CC39E2DD4D83C00F6D955 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C95CC39A2DD4D83C00F6D955 /* Build configuration list for PBXNativeTarget "PrimeiraTelaCadastroCurso" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C95CC39B2DD4D83C00F6D955 /* Debug */,
+				C95CC39C2DD4D83C00F6D955 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C95CC39F2DD4D83C00F6D955 /* Build configuration list for PBXNativeTarget "PrimeiraTelaCadastroCursoTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C95CC3A02DD4D83C00F6D955 /* Debug */,
+				C95CC3A12DD4D83C00F6D955 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C95CC3A22DD4D83C00F6D955 /* Build configuration list for PBXNativeTarget "PrimeiraTelaCadastroCursoUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C95CC3A32DD4D83C00F6D955 /* Debug */,
+				C95CC3A42DD4D83C00F6D955 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C95CC3692DD4D83B00F6D955 /* Project object */;
+}

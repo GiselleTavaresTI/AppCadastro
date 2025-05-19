@@ -1,0 +1,44 @@
+# Xcode
+xcuserdata/
+*.pbxuser
+*.mode1v3
+*.perspectivev3
+*.xcworkspace
+DerivedData/
+Build/
+Logs/
+*.app
+*.dSYM*
+
+# Swift Package Manager
+.build/
+
+# CocoaPods
+Pods/Podfile.lock
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/screenshots/
+fastlane/test_output/
+
+# Fabric
+*.crashlytics*
+
+# Files generated during development
+*.log
+*.stringsdata
+
+# OS generated files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Folder backups
+*.swp
+*.directory
